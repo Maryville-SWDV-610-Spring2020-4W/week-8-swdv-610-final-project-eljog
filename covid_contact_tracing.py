@@ -1,3 +1,7 @@
+'''
+A covid contact tracing and impact detection app based on GraphDB.
+'''
+
 from graphdb.graphdb import GraphDB
 import csv
 
